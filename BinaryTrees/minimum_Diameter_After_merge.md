@@ -116,6 +116,6 @@ This approach efficiently computes the minimum diameter after merging two trees 
 ---
 
 **Pranjal Kumar Shukla**  
-[Leetcode Profile](https://leetcode.com/u/coderkumarshukla/)  
-[GitHub Profile](https://github.com/PranjalKumar09/)
-[GitHub Profile](https://github.com/PranjalKumar09/)
+[Leetcode Profile](https://leetcode.com/u/shukla_pranjal/)  
+[GitHub Profile](https://github.com/shukla-pranjal/)
+[GitHub Profile](https://github.com/shukla-pranjal/)
